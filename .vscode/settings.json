@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/jesuscova/.local/share/virtualenvs/django_docs-jvCR4aDN/bin/python"
+    "python.pythonPath": "/Users/jesuscova/.local/share/virtualenvs/django_docs-jvCR4aDN/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
 }
